@@ -199,3 +199,14 @@ th, td{
 .comment{
     font-size:15px;
 }
+
+.back{
+    font-size:30px;
+    padding-top:20px;
+    color:midnightblue;
+    text-align:end;
+}
+
+a.back{
+    text-decoration:none;
+}
