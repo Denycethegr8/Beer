@@ -210,3 +210,7 @@ th, td{
 a.back{
     text-decoration:none;
 }
+
+a.back:hover{
+    text-decoration-line:underline;
+}
