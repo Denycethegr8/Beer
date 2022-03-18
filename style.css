@@ -118,7 +118,6 @@ a.menu:hover{
     text-align:justify;
     color:#14213D;
     font-weight:500;
-    height:800px;
 }
 
 aside{
@@ -174,6 +173,7 @@ table{
     border-collapse: collapse;
     text-align:center;
     table-layout:fixed;
+    margin-top:40px;
 }
 
 th, .each-type {
@@ -214,3 +214,17 @@ a.back{
 a.back:hover{
     text-decoration-line:underline;
 }
+
+span.beer-desc{
+    font-size:20px;
+}
+
+a.bavaria{
+    color:#14213D;
+}
+
+a.bavaria:hover{
+    color:blueviolet;
+}
+
+/* subtypes 페이지*/
