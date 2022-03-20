@@ -219,12 +219,51 @@ span.beer-desc{
     font-size:20px;
 }
 
-a.bavaria{
-    color:#14213D;
+
+/* subtypes 페이지*/
+
+a.breweries{
+    color:darkslategray;
 }
 
-a.bavaria:hover{
+a.breweries:hover{
     color:blueviolet;
 }
 
-/* subtypes 페이지*/
+.img-breweries{
+    height:100px;
+}
+
+p#belgian{
+    font-size:30px;
+}
+
+
+/* breweries 페이지*/
+
+a.nounderline{
+    color:darkslategray;
+}
+
+a.nounderline:hover{
+    color:blueviolet;
+
+}
+
+table .term{
+    width:100%;
+    text-align:justify;
+    font-size:18px;
+}
+
+#kor-com{
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+#atp{
+    color:darkred;
+}
+
+.wrap{
+    text-align:justify;
+}
