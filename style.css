@@ -78,9 +78,9 @@ body{
     font-size:30px;
     margin-top:60px;
     padding-left:60px;
-    flex-grow:1;
-    height:50%;
-    width:90px;
+    flex-grow:0;
+    flex-shrink:0;
+    flex-basis:25%;
     font-family:'alegreya', sans-serif;
 }
 
@@ -121,7 +121,9 @@ a.menu:hover{
 }
 
 aside{
-    flex-grow:1;
+    flex-grow:0;
+    flex-shrink:0;
+    flex-basis:25%;
 }
 
 .bottom-menu{
